@@ -1,0 +1,20 @@
+<ul class="users__list">
+    {{#each this}}
+        <li class="users__items" id="{{id}}">
+            <h2 class="users__title">Name 👨‍💻: {{name}}</h2>
+            <h3 class="users__subtitle">Age: {{age}}</h3>
+            <a class="user__link" href="mailto:">Email 📧: {{email}}</a>
+            {{#if isActive}}
+                <p class="users__text">Online🟢</p>
+            {{else}}
+                <p class="users__text">Offline🛑</p>
+            {{/if}}
+            {{#with address}}
+                <p class="users__country">Country 🏳️:{{country}}</p> 
+                <p class="users__city">City 🏙️:{{city}}</p>
+                <p class="users__street">Street 🛣️:{{street}}</p>
+            {{/with}}
+        </li>
+    {{/each}}
+    
+</ul>

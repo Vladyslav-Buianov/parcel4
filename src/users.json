@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Іван Петренко",
+    "age": 25,
+    "email": "ivan.petrenko@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Київ",
+      "street": "Хрещатик, 10"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Олена Коваль",
+    "age": 31,
+    "email": "olena.koval@example.com",
+    "isActive": false,
+    "address": {
+      "country": "Україна",
+      "city": "Львів",
+      "street": "проспект Свободи, 15"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Андрій Мельник",
+    "age": 28,
+    "email": "andrii.melnyk@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Одеса",
+      "street": "Дерибасівська, 7"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Марія Шевченко",
+    "age": 22,
+    "email": "maria.shevchenko@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Харків",
+      "street": "Сумська, 20"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Дмитро Бондар",
+    "age": 35,
+    "email": "dmytro.bondar@example.com",
+    "isActive": false,
+    "address": {
+      "country": "Україна",
+      "city": "Дніпро",
+      "street": "Центральна, 5"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Софія Лисенко",
+    "age": 27,
+    "email": "sofia.lysenko@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Запоріжжя",
+      "street": "Соборний, 112"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Максим Ткаченко",
+    "age": 30,
+    "email": "maksym.tkachenko@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Вінниця",
+      "street": "Келецька, 45"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Наталія Гриценко",
+    "age": 26,
+    "email": "nataliia.hrytsenko@example.com",
+    "isActive": false,
+    "address": {
+      "country": "Україна",
+      "city": "Черкаси",
+      "street": "Благовісна, 18"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Владислав Романюк",
+    "age": 29,
+    "email": "vladyslav.romaniuk@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Івано-Франківськ",
+      "street": "Незалежності, 30"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Катерина Савчук",
+    "age": 24,
+    "email": "kateryna.savchuk@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Тернопіль",
+      "street": "Руська, 9"
+    }
+  }
+]
